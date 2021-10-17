@@ -1,0 +1,1 @@
+This is the testing sentence and will convert into a QR-code like photo.
